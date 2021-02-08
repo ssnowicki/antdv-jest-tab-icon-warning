@@ -1,6 +1,6 @@
 /* global describe, it, expect */
 import { mount } from "@vue/test-utils";
-import Login from "../src/components/Login";
+import Login from "../src/components/Login.vue";
 import Antd from "ant-design-vue";
 
 describe("Login Success", () => {
